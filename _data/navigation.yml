@@ -13,10 +13,10 @@ main:
     url: "/#-publications"
 
   - title: "Academic Conferences and Awards"
-    url: "/#-academic conferences and awards"
+    url: "/#-academic-conferences-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Internships"
     url: "/#-internships"
