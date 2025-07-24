@@ -23,8 +23,8 @@ Comprehensively define and reliably quantify psychological stress, and
 
 Investigate its causal relationships with psychiatric disorders using both phenotypic and genetic approaches.
 
-Haixia’s academic background bridges psychology and genetics, with extensive training in experimental psychology, psychological measurement, cognitive neurobiology, bioinformatics, and epigenetics.
-She has hands-on experience in designing and implementing psychological experiments in both laboratory and cohort-based settings, and has a strong foundation in biostatistics and quantitative research methods.
+With a multidisciplinary background spanning psychology and genetics, Haixia has received comprehensive training in experimental psychology, psychological assessment, cognitive neurobiology, bioinformatics, genetics, and epigenetics. Her experience includes designing and executing psychological studies in laboratory settings, as well as performing genetic analyses in large-scale cohort datasets such as [Lifelines](https://www.lifelines-biobank.com/), [UK Biobank](https://www.ukbiobank.ac.uk/), and [NESDA](https://www.nesda.nl/).
+
 
 
 # 🔥 News
