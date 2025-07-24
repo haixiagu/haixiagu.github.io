@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haixia Gu (古海霞)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : 
+  bio              : ""
   location         : "Groningen, Netherlands"
   employer         : "Ph.D student"
   pubmed           : 
