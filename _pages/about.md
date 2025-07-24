@@ -19,9 +19,9 @@ redirect_from:
 
 Haixia Gu is a Ph.D. student in Genetics at the School of Life Science, Central South University, China. Her research is dedicated to precisely defining and measuring psychological stress, while exploring its critical role in the development and treatment of psychiatric disorders. Specifically, she aims to:
 
-Comprehensively define and reliably quantify psychological stress, and
+1. Comprehensively define and reliably quantify psychological stress, and
 
-Investigate its causal relationships with psychiatric disorders using both phenotypic and genetic approaches.
+2. Investigate its causal relationships with psychiatric disorders using both phenotypic and genetic approaches.
 
 With a multidisciplinary background spanning psychology and genetics, Haixia has received comprehensive training in experimental psychology, psychological assessment, cognitive neurobiology, bioinformatics, genetics, and epigenetics. Her experience includes designing and executing psychological studies in laboratory settings, as well as performing genetic analyses in large-scale cohort datasets such as [Lifelines](https://www.lifelines-biobank.com/), [UK Biobank](https://www.ukbiobank.ac.uk/), and [NESDA](https://www.nesda.nl/).
 
