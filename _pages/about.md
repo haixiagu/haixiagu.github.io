@@ -28,9 +28,9 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Haixia started a two-year academic visit at the University Medical Center Groningen, University of Groningen, the Netherlands, with financial support from the **Chinese Scholarship Council (CSC)**. 
-- *2024.12*: &nbsp;🎉🎉 Haixia became a member of the **Stress in Action Consortium (SIA)** – excited to collaborate internationally!  
-  👉 You can also visit her homepage on the Stress in Action website: <a href="https://stress-in-action.nl/haixia-gu/" target="_blank">https://stress-in-action.nl/haixia-gu/</a>
+- *2024.11*: &nbsp;🎉🎉 Haixia started a two-year academic visit at the University Medical Center Groningen, University of Groningen, the Netherlands, with financial support from the Chinese Scholarship Council (CSC). 
+- *2024.12*: &nbsp;🎉🎉 Haixia became a member of the [Stress in Action Consortium (SIA)](https://stress-in-action.nl/) – excited to work with excellent scientists and passionate early-career researchers dedicated to the study of stress!
+  👉 You can also visit her homepage on the Stress in Action website: <a href="https://stress-in-action.nl/haixia-gu/" target="_blank">https://stress-in-action.nl/haixia-gu/</a>.
 
 
 # 📝 Publications 
