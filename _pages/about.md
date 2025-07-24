@@ -31,26 +31,50 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 - *2024.12*: &nbsp;🎉🎉 Haixia became a member of the [Stress in Action Consortium (SIA)](https://stress-in-action.nl/) – excited to work with excellent scientists and passionate early-career researchers dedicated to the study of stress!
   👉 You can also visit her homepage on the Stress in Action website: <a href="https://stress-in-action.nl/haixia-gu/" target="_blank">https://stress-in-action.nl/haixia-gu/</a>.
 - *2024.11*: &nbsp;🎉🎉 Haixia started a two-year academic visit at the University Medical Center Groningen, University of Groningen, the Netherlands, with financial support from the Chinese Scholarship Council (CSC). 
-- *2024.10*: &nbsp;🎉🎉 Haixia co-authored a paper titled *"Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review"* (in Chinese: *人源类器官表型组学的研究进展及展望*), published in **SCIENTIA SINICA Vitae** (*中国科学: 生命科学*). This experience was a valuable opportunity to explore and better understand experimental biology.  
+- *2024.10*: &nbsp;🎉🎉 Haixia co-authored a paper titled *"Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)"* (*人源类器官表型组学的研究进展及展望*), published in *SCIENTIA SINICA Vitae* (*中国科学: 生命科学*). This experience was a valuable opportunity to explore and better understand experimental biology.  
   🔗 [Read the paper](https://doi.org/10.1360/SSV-2024-0113)
 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='cortisol-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Salivary cortisol responses to Acute Stress](https://www.sciencedirect.com/science/article/pii/S2666497622000169?via%3Dihub)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Main findings**]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The TSST effectively induces stress response as measured by salivary cortisol change. 
+- Forty samples is the minimum sample size for detecting the robust salivary cortisol responses. We confirmed that males have more robust salivary cortisol reactivity than females in TSST. 
+- Forty samples is the minimum for detecting robust salivary cortisol responses.
+- The speech topics tested did not significantly alter salivary cortisol responses.
+- Males have higher salivary cortisol responses than females in the TSST.
+- Males had higher salivary cortisol levels than females in the TSST at both baseline and peak.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Haixia Gu**, Xue'er Ma, Jingjing Zhao, Chunyu Liu*. 2022. [A meta-analysis of salivary cortisol responses in the Trier Social Stress Test to evaluate the effects of speech topics, sex, and sample size](https://doi.org/10.1016/j.cpnec.2022.100125). Comprehensive psychoneuroendocrinology, 10, 100125. 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='human-organoid-phenomics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advancements and Prospects in Human Organoid Phenomics](https://www.sciengine.com/doi/pdfView/592D15492520482B808E0504D89C31E4)
+
+
+[**Main findings**]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Human organoids are three-dimensional (3D) in vitro cell cultures that accurately mimic the cell types, tissue structures, and other essential characteristics of human organs.
+- In this review, we summarized the methods and advancements in using phenomics to study human organoids, and outline prospects for their future development and application.
+</div>
+</div>
+
+- WenDiao Zhang, XingYu Yin, **HaiXia Gu**, ShuQi Huang, Chao Chen*. 2024. [Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)](https://doi.org/10.1360/SSV-2024-0113). Sci Sin Vitae, 54: 2125-2142.
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
