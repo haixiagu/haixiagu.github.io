@@ -68,8 +68,8 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 [**Main findings**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Human organoids are three-dimensional (3D) in vitro cell cultures that accurately mimic the cell types, tissue structures, and other essential characteristics of human organs.
-- In this review, we summarized the methods and advancements in using phenomics to study human organoids, and outline prospects for their future development and application.
+- Human organoids are three-dimensional (3D) in vitro cell cultures that closely replicate the cell types, tissue architecture, and key features of human organs.
+- This review summarizes current methods and recent advances in applying phenomics to the study of human organoids, and discusses future directions for their development and application.
 </div>
 </div>
 
@@ -93,26 +93,26 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 
-# 🧑‍🏫 Acedemic Conference and Awards
-- *2023.12*: <span style="color:red; font-weight:bold;">(Excellence Award)</span> *Academic Annual Meeting of the Behavioral Genetics Branch of the Chinese Genetics Society and the 9th Academic Forum on Psychiatric Genetics – Young Scholars Forum. Changsha, China. (Oral)
-- *2023.11*: <span style="color:red; font-weight:bold;">(Outstanding Posters Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* The 4th International Symposium of Human Phenomics and the 5th Human Phenomics Conference of China. Shanghai, China.
-- *2021.12*: A New High-Throughput Method to Induce Robust Psychological Stress. The 60th Annual Meeting of the American College of Neuropsychopharmacology. San Juan, United State.
-- *2021.10* The Trier Social Stress Test-Electronic Screen (TSST-ES) Induces Acute Stress Responses Efficiently. The 23rd National Conference of Psychology. Fujian, China. (Oral)
+
+# 🧑‍🏫 Academic Conferences and Awards
+- *2023.12*: <span style="color:red; font-weight:bold;">(Excellence Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* Academic Annual Meeting of the Behavioral Genetics Branch of the Chinese Genetics Society and the 9th Academic Forum on Psychiatric Genetics – Young Scholars Forum. Changsha, China. *(Oral)*
+- *2023.11*: <span style="color:red; font-weight:bold;">(Outstanding Poster Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* The 4th International Symposium of Human Phenomics and the 5th Human Phenomics Conference of China. Shanghai, China.
+- *2021.12*: *A New High-Throughput Method to Induce Robust Psychological Stress.* The 60th Annual Meeting of the American College of Neuropsychopharmacology. San Juan, United States.
+- *2021.10*: *The Trier Social Stress Test-Electronic Screen (TSST-ES) Induces Acute Stress Responses Efficiently.* The 23rd National Conference of Psychology. Fujian, China. *(Oral)*
 - *2021.09*: *Salivary Cortisol Responses in the Trier Social Stress Test: Effects of Speech Topics, Sex, and Immunoassay Methods.* The 20th World Congress of Psychophysiology. Sichuan, China.
-- *2021.04*: <span style="color:red; font-weight:bold;">(Excellent Paper Nomination Award)</span> *The Trier Social Stress Test-Electronic Screen (TSST-ES) Induces Acute Stress Responses Efficiently.* The 23rd National Conference of Psychology. Fujian, China.
+- *2021.04*: <span style="color:red; font-weight:bold;">(Excellent Paper Nomination Award)</span> *The Effects of Speech Topics, Immunoassay Methods, and Sex on Salivary Cortisol Responses in the Trier Social Stress Test.* The 6th National Symposium on Emotional and Health Psychology. Sichuan, China.
 
 
 
+# 📖 Education
+- *2024.11 – present*: Visiting Ph.D. Student, Interdisciplinary Center for Psychopathology and Emotion Regulation (ICPE), Department of Psychiatry, University Medical Center Groningen, University of Groningen, Netherlands  
+  *(Field: Psychiatric Genetics)*
+- *2022.09 – present*: Ph.D. Student, Center for Medical Genetics, School of Life Sciences, Central South University, China  
+  *(Field: Genetics)*
+- *2019.09 – 2022.07*: Master’s Degree in Basic Psychology, School of Psychology, Shaanxi Normal University, China
+- *2015.09 – 2019.07*: Bachelor’s Degree in Applied Psychology, School of Public Health and Management, Chongqing Medical University, China
 
 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.12 – 2020.05*: Internship at the Department of Psychiatry, University-Town Hospital of Chongqing Medical University (*重庆医科大学附属大学城医院*), China.
