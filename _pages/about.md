@@ -37,7 +37,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/cortisol-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Compr Psychoneuroendocrinol 2022</div><img src='images/cortisol-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Salivary Cortisol Responses to Acute Stress](https://www.sciencedirect.com/science/article/pii/S2666497622000169?via%3Dihub)
@@ -57,7 +57,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/human-organoid-phenomics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Sin Vitae 2024</div><img src='images/human-organoid-phenomics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Advancements and Prospects in Human Organoid Phenomics](https://www.sciengine.com/doi/pdfView/592D15492520482B808E0504D89C31E4)
@@ -73,6 +73,21 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 - WenDiao Zhang, XingYu Yin, **HaiXia Gu**, ShuQi Huang, Chao Chen*. 2024. [Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)](https://doi.org/10.1360/SSV-2024-0113). Sci Sin Vitae, 54: 2125-2142.
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Sin Vitae 2024</div><img src='images/atypical-gaze-asd.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Atypical Gaze Patterns to Facial Feature Areas in Autism Spectrum Disorders](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607)
+
+
+[**Main findings**]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Individuals with autism spectrum disorder (ASD) often show atypical gaze patterns when looking at others' faces compared to neurotypical individuals. 
+- This paper examines the role of age and culture on pattern of gaze abnormalities in individuals with ASD. 
+- Results show that reduction of gaze on eyes in ASD is stable across all ages and cultures, while increase of gaze on mouth emerges as individuals with ASD get older.
+</div>
+</div>
+
+- Xue'er Ma, **Haixia Gu**, Jingjing Zhao*. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607r). Autism research : official journal of the International Society for Autism Research, 14(12), 2625–2639.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
