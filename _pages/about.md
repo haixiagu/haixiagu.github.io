@@ -35,7 +35,12 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 
-# 📝 Publications 
+# 🚩 Projects
+- Developing a Depression Risk Prediction Model Centered on Psychological Stress Based on Cohort Studies. (Participant). 2023. Hunan Province Major Research Initiative for High-Level Health and Medical Talents. 
+
+
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Compr Psychoneuroendocrinol 2022</div><img src='images/cortisol-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,12 +61,10 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 - **Haixia Gu**, Xue'er Ma, Jingjing Zhao, Chunyu Liu*. 2022. [A meta-analysis of salivary cortisol responses in the Trier Social Stress Test to evaluate the effects of speech topics, sex, and sample size](https://doi.org/10.1016/j.cpnec.2022.100125). Comprehensive psychoneuroendocrinology, 10, 100125. 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Sin Vitae 2024</div><img src='images/human-organoid-phenomics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Advancements and Prospects in Human Organoid Phenomics](https://www.sciengine.com/doi/pdfView/592D15492520482B808E0504D89C31E4)
-
 
 [**Main findings**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -78,7 +81,6 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 [Atypical Gaze Patterns to Facial Feature Areas in Autism Spectrum Disorders](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607)
 
-
 [**Main findings**]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Individuals with autism spectrum disorder (ASD) often show atypical gaze patterns when looking at others' faces compared to neurotypical individuals. 
@@ -89,9 +91,20 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 - Xue'er Ma, **Haixia Gu**, Jingjing Zhao*. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607r). Autism research : official journal of the International Society for Autism Research, 14(12), 2625–2639.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+# 🧑‍🏫 Acedemic Conference and Awards
+- *2023.12*: <span style="color:red; font-weight:bold;">(Excellence Award)</span> *Academic Annual Meeting of the Behavioral Genetics Branch of the Chinese Genetics Society and the 9th Academic Forum on Psychiatric Genetics – Young Scholars Forum. Changsha, China. (Oral)
+- *2023.11*: <span style="color:red; font-weight:bold;">(Outstanding Posters Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* The 4th International Symposium of Human Phenomics and the 5th Human Phenomics Conference of China. Shanghai, China.
+- *2021.12*: A New High-Throughput Method to Induce Robust Psychological Stress. The 60th Annual Meeting of the American College of Neuropsychopharmacology. San Juan, United State.
+- *2021.10* The Trier Social Stress Test-Electronic Screen (TSST-ES) Induces Acute Stress Responses Efficiently. The 23rd National Conference of Psychology. Fujian, China. (Oral)
+- *2021.09*: *Salivary Cortisol Responses in the Trier Social Stress Test: Effects of Speech Topics, Sex, and Immunoassay Methods.* The 20th World Congress of Psychophysiology. Sichuan, China.
+- *2021.04*: <span style="color:red; font-weight:bold;">(Excellent Paper Nomination Award)</span> *The Trier Social Stress Test-Electronic Screen (TSST-ES) Induces Acute Stress Responses Efficiently.* The 23rd National Conference of Psychology. Fujian, China.
+
+
+
+
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
