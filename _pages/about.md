@@ -36,7 +36,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 🚩 Projects
-- Developing a Depression Risk Prediction Model Centered on Psychological Stress Based on Cohort Studies. (Participant). 2023. Hunan Province Major Research Initiative for High-Level Health and Medical Talents. 
+- Waiting for updating.
 
 
 
