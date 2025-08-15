@@ -56,7 +56,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 </div>
 </div>
 
-- **Haixia Gu**, Yangyang Lei, Yuchen Yao, Chao Chen<sup>*</sup>, Chunyu Liu<sup>*</sup>. 2025. [Physiological and psychological responses to acute stress: A meta-analysis of 171 studies of the Trier Social Stress Test including 8452 healthy adults](https://doi.org/10.1016/j.psyneuen.2025.107566). *Psychoneuroendocrinology*, 107566.
+- **Haixia Gu**, Yangyang Lei, Yuchen Yao, Chao Chen&ast, Chunyu Liu&ast. 2025. [Physiological and psychological responses to acute stress: A meta-analysis of 171 studies of the Trier Social Stress Test including 8452 healthy adults](https://doi.org/10.1016/j.psyneuen.2025.107566). *Psychoneuroendocrinology*, 107566.
 
 
 
@@ -76,7 +76,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 </div>
 </div>
 
-- **Haixia Gu**, Xue'er Ma, Jingjing Zhao, Chunyu Liu<sup>*</sup>. 2022. [A meta-analysis of salivary cortisol responses in the Trier Social Stress Test to evaluate the effects of speech topics, sex, and sample size](https://doi.org/10.1016/j.cpnec.2022.100125). *Comprehensive Psychoneuroendocrinology*, **10**, 100125.
+- **Haixia Gu**, Xue'er Ma, Jingjing Zhao, Chunyu Liu*. 2022. [A meta-analysis of salivary cortisol responses in the Trier Social Stress Test to evaluate the effects of speech topics, sex, and sample size](https://doi.org/10.1016/j.cpnec.2022.100125). *Comprehensive Psychoneuroendocrinology*, **10**, 100125.
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Sin Vitae 2024</div><img src='images/human-organoid-phenomics.png' alt="sym" width="100%"></div></div>
@@ -91,7 +91,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 </div>
 </div>
 
-- WenDiao Zhang, XingYu Yin, **HaiXia Gu**, ShuQi Huang, Chao Chen<sup>*</sup>. 2024. [Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)](https://doi.org/10.1360/SSV-2024-0113). *Sci Sin Vitae*, **54**: 2125–2142.
+- WenDiao Zhang, XingYu Yin, **HaiXia Gu**, ShuQi Huang, Chao Chen*. 2024. [Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)](https://doi.org/10.1360/SSV-2024-0113). *Sci Sin Vitae*, **54**: 2125–2142.
 
 
 
@@ -108,7 +108,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 </div>
 </div>
 
-- - Xue'er Ma, **Haixia Gu**, Jingjing Zhao<sup>*</sup>. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607). *Autism Research: Official Journal of the International Society for Autism Research*, **14**(12), 2625–2639.
+- - Xue'er Ma, **Haixia Gu**, Jingjing Zhao*. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607). *Autism Research: Official Journal of the International Society for Autism Research*, **14**(12), 2625–2639.
 
 
 
