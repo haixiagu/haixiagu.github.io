@@ -108,7 +108,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 </div>
 </div>
 
-- - Xue'er Ma, **Haixia Gu**, Jingjing Zhao\*. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607). *Autism Research: Official Journal of the International Society for Autism Research*, **14**(12), 2625–2639.
+- Xue'er Ma, **Haixia Gu**, Jingjing Zhao\*. 2021. [Atypical gaze patterns to facial feature areas in autism spectrum disorders reveal age and culture effects: A meta-analysis of eye-tracking studies](https://onlinelibrary.wiley.com/doi/10.1002/aur.2607). *Autism Research: Official Journal of the International Society for Autism Research*, **14**(12), 2625–2639.
 
 
 
