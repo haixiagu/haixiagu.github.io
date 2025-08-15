@@ -42,7 +42,7 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Psychoneuroendocrinol 2025</div><img src='images/phi-and-psy-response-to-TSSTT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Psychoneuroendocrinol 2025</div><img src='images/phi-and-psy-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physiological and Psychological Responses to Acute Stress](https://doi.org/10.1016/j.psyneuen.2025.107566)
