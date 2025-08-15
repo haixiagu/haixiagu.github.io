@@ -42,6 +42,23 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Psychoneuroendocrinol 2025</div><img src='images/phi-and-psy-response-to-TSSTT.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physiological and Psychological Responses to Acute Stress](https://doi.org/10.1016/j.psyneuen.2025.107566)
+
+
+[**Main findings**]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Physiological measures exhibited stronger and more consistent effect sizes in response to the TSST than psychological measures.
+- Strong correlations appeared within domains, while associations between physiological and psychological domains were weak.
+- Cardiovascular measures showed promise as reliable endophenotypes for stress-related genetics and disease risk.
+</div>
+</div>
+
+- **Haixia Gu**, Yangyang Lei, Yuchen Yao, Chao Chen*, Chunyu Liu*. 2025. [Physiological and psychological responses to acute stress: A meta-analysis of 171 studies of the Trier Social Stress Test including 8452 healthy adults](https://doi.org/10.1016/j.psyneuen.2025.107566). *Psychoneuroendocrinology*, 107566.
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Compr Psychoneuroendocrinol 2022</div><img src='images/cortisol-response-to-TSST.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
