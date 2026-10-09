@@ -169,6 +169,8 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 🧑‍🏫 Academic Conferences and Awards
+- *2026.10*: *GWAS meta-analysis in more than 500,000 Europeans identifies 10 loci for stressful life events and shows causal links with neuropsychiatric and cardiometabolic disorders.* *World Congress of Psychiatric Genetics (WCPG)*. Glasgow, Scotland. *(Poster)*
+- *2026.06*: *GWAS meta-analysis in more than 500,000 Europeans identifies genetic loci for stressful life events and their causal links with neuropsychiatric and cardiometabolic disorders.* *Behavior Genetics Association (BGA) Annual Meeting*. Amsterdam, Netherlands. *(Oral)*
 - *2023.12*: <span style="color:red; font-weight:bold;">(Excellence Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* Academic Annual Meeting of the Behavioral Genetics Branch of the Chinese Genetics Society and the 9th Academic Forum on Psychiatric Genetics – Young Scholars Forum. Changsha, China. *(Oral)*
 - *2023.11*: <span style="color:red; font-weight:bold;">(Outstanding Poster Award)</span> *Psychological Stress as a Phenotype: Updated Definition and Quantification.* The 4th International Symposium of Human Phenomics and the 5th Human Phenomics Conference of China. Shanghai, China.
 - *2021.12*: *A New High-Throughput Method to Induce Robust Psychological Stress.* The 60th Annual Meeting of the American College of Neuropsychopharmacology. San Juan, United States.
