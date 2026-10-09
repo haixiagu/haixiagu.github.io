@@ -179,12 +179,10 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 📖 Education
-- *2024.11 – present*: Visiting Ph.D. Student, Interdisciplinary Center for Psychopathology and Emotion Regulation (ICPE), Department of Psychiatry, University Medical Center Groningen, University of Groningen, Netherlands  
-  *(Field: Psychiatric Genetics)*
-- *2022.09 – present*: Ph.D. Student, Center for Medical Genetics, School of Life Sciences, Central South University, China  
-  *(Field: Genetics)*
-- *2019.09 – 2022.07*: Master’s Degree in Basic Psychology, School of Psychology, Shaanxi Normal University, China
-- *2015.09 – 2019.07*: Bachelor’s Degree in Applied Psychology, School of Public Health and Management, Chongqing Medical University, China
+- *2022.09 – present*: **Ph.D. in Genetics**, School of Life Science, Central South University, China. Expected completion: December 2026. Supervisors: [Chao Chen](https://faculty.csu.edu.cn/ChaoChen/en/index.htm) and [Chunyu Liu](https://www.upstate.edu/psychiatry/about-us/faculty.php?empID=liuch).
+- *2024.11 – 2026.07*: **Joint Ph.D. student**, Interdisciplinary Center for Psychopathology and Emotion Regulation (ICPE), Department of Psychiatry, University Medical Center Groningen, University of Groningen, the Netherlands. Supervisors: [Catharina Hartman](https://research.rug.nl/en/persons/catharina-hartman/publications/) and [Harold Snieder](https://www.rug.nl/umcg/research/departments/epidemiology/staff/h-snieder-phd?lang=en).
+- *2019.09 – 2022.07*: **M.S. in Basic Psychology**, School of Psychology, Shaanxi Normal University, China. Supervisors: [Jingjing Zhao](https://www.psy.cuhk.edu.hk/en/people/faculty-members/jing-jing-zhao.html) and [Chunyu Liu](https://www.upstate.edu/psychiatry/about-us/faculty.php?empID=liuch).
+- *2015.09 – 2019.07*: **B.S. in Applied Psychology**, School of Public Health and Management, Chongqing Medical University, China.
 
 
 
