@@ -31,16 +31,24 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 <div class="news-list" id="news-list">
   <article class="news-item news-item--with-image" data-news-item>
     <div class="news-item__content">
-      <p><time datetime="2026-10">2026.10</time>: Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies 10 loci for stressful life events and shows causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>World Congress of Psychiatric Genetics (WCPG)</em>, Glasgow, Scotland. <strong>[Poster]</strong></p>
+      <p><time datetime="2026-10">2026.10</time>: &nbsp;🎉🎉 Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies 10 loci for stressful life events and shows causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>World Congress of Psychiatric Genetics (WCPG)</em>, Glasgow, Scotland. <strong>[Poster]</strong></p>
     </div>
     <a href="images/2026WCPG.jpg"><img class="news-photo" src="images/2026WCPG.jpg" alt="Haixia presenting her poster at the 2026 World Congress of Psychiatric Genetics in Glasgow" loading="lazy"></a>
   </article>
 
   <article class="news-item news-item--with-image" data-news-item>
     <div class="news-item__content">
-      <p><time datetime="2026">2026</time>: Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies genetic loci for stressful life events and their causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>Behavior Genetics Association (BGA) Annual Meeting</em>, Amsterdam, Netherlands. <strong>[Oral]</strong></p>
+      <p><time datetime="2026">2026.06</time>: &nbsp;🎉🎉 Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies genetic loci for stressful life events and their causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>Behavior Genetics Association (BGA) Annual Meeting</em>, Amsterdam, Netherlands. <strong>[Oral]</strong></p>
     </div>
     <a href="images/2026BGA.jpg"><img class="news-photo" src="images/2026BGA.jpg" alt="Haixia giving an oral presentation at the 2026 BGA Annual Meeting in Amsterdam" loading="lazy"></a>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2026">2026</time>: &nbsp;🎉🎉 Haixia, as first author, released a preprint proposing a unified definition of psychological stress and introducing the Cognitive Integration Model (CIM), which specifies the stress-generation and stress-handling processes.🔗 <a href="https://doi.org/10.31234/osf.io/9a6p4_v1">Read the preprint</a></p>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2026-09">2026.09</time>: &nbsp;🎉🎉 Haixia co-authored a preprint investigating the role of basic psychological need satisfaction and frustration in the relationship between childhood maltreatment and stress responses in Chinese adults.🔗 <a href="https://doi.org/10.20944/preprints202609.2520.v1">Read the preprint</a></p>
   </article>
 
   <article class="news-item" data-news-item>
