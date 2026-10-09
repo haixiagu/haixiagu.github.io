@@ -28,11 +28,41 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Haixia, as the first author, published an article in *Psychoneuroendocrinology* titled "Physiological and psychological responses to acute stress: A meta-analysis of 171 studies of the Trier Social Stress Test including 8452 healthy adults"! 🔗 [Read the paper](https://doi.org/10.1016/j.psyneuen.2025.107566)
-- *2024.12*: &nbsp;🎉🎉 Haixia became a member of the [Stress in Action Consortium (SIA)](https://stress-in-action.nl/) – excited to work with excellent scientists and passionate early-career researchers dedicated to the study of stress!
-  👉 You can also visit her homepage on the Stress in Action website: <a href="https://stress-in-action.nl/haixia-gu/" target="_blank">https://stress-in-action.nl/haixia-gu/</a>.
-- *2024.11*: &nbsp;🎉🎉 Haixia started a two-year academic visit at the University Medical Center Groningen, University of Groningen, the Netherlands, with financial support from the Chinese Scholarship Council (CSC). 
-- *2024.10*: &nbsp;🎉🎉 Haixia co-authored a paper titled *"Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)"* (*人源类器官表型组学的研究进展及展望*), published in *SCIENTIA SINICA Vitae* (*中国科学: 生命科学*). This experience was a valuable opportunity to explore and better understand experimental biology.  🔗 [Read the paper](https://doi.org/10.1360/SSV-2024-0113)
+<div class="news-list" id="news-list">
+  <article class="news-item news-item--with-image" data-news-item>
+    <div class="news-item__content">
+      <p><time datetime="2026-10">2026.10</time>: Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies 10 loci for stressful life events and shows causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>World Congress of Psychiatric Genetics (WCPG)</em>, Glasgow, Scotland. <strong>[Poster]</strong></p>
+    </div>
+    <a href="images/2026WCPG.jpg"><img class="news-photo" src="images/2026WCPG.jpg" alt="Haixia presenting her poster at the 2026 World Congress of Psychiatric Genetics in Glasgow" loading="lazy"></a>
+  </article>
+
+  <article class="news-item news-item--with-image" data-news-item>
+    <div class="news-item__content">
+      <p><time datetime="2026">2026</time>: Haixia presented <strong>“GWAS meta-analysis in more than 500,000 Europeans identifies genetic loci for stressful life events and their causal links with neuropsychiatric and cardiometabolic disorders”</strong> at the <em>Behavior Genetics Association (BGA) Annual Meeting</em>, Amsterdam, Netherlands. <strong>[Oral]</strong></p>
+    </div>
+    <a href="images/2026BGA.jpg"><img class="news-photo" src="images/2026BGA.jpg" alt="Haixia giving an oral presentation at the 2026 BGA Annual Meeting in Amsterdam" loading="lazy"></a>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2025-08">2025.08</time>: &nbsp;🎉🎉 Haixia, as the first author, published an article in <em>Psychoneuroendocrinology</em> titled “Physiological and psychological responses to acute stress: A meta-analysis of 171 studies of the Trier Social Stress Test including 8452 healthy adults”! 🔗 <a href="https://doi.org/10.1016/j.psyneuen.2025.107566">Read the paper</a></p>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2024-12">2024.12</time>: &nbsp;🎉🎉 Haixia became a member of the <a href="https://stress-in-action.nl/">Stress in Action Consortium (SIA)</a> – excited to work with excellent scientists and passionate early-career researchers dedicated to the study of stress! 👉 Visit her homepage on the <a href="https://stress-in-action.nl/haixia-gu/">Stress in Action website</a>.</p>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2024-11">2024.11</time>: &nbsp;🎉🎉 Haixia started a two-year academic visit at the University Medical Center Groningen, University of Groningen, the Netherlands, with financial support from the Chinese Scholarship Council (CSC).</p>
+  </article>
+
+  <article class="news-item" data-news-item>
+    <p><time datetime="2024-10">2024.10</time>: &nbsp;🎉🎉 Haixia co-authored a paper titled <em>“Advancements and Prospects in Human Organoid Phenomics: A Comprehensive Review (in Chinese)”</em> (<em>人源类器官表型组学</em>), published in <em>SCIENTIA SINICA Vitae</em> (<em>中国科学: 生命科学</em>). This experience was a valuable opportunity to explore and better understand experimental biology. 🔗 <a href="https://doi.org/10.1360/SSV-2024-0113">Read the paper</a></p>
+  </article>
+</div>
+
+<button class="btn btn--small" id="news-load-more" type="button" aria-controls="news-list" hidden>More news</button>
+
+<script src="assets/js/news-pagination.js"></script>
 
 
 
