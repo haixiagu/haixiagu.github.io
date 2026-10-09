@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haixia Gu (古海霞)"
-  avatar           : "images/1200x1200px.jpg"
+  avatar           : "images/avatar-512x512.png"
   bio              : ""
   location         : "Hunan, China"
   employer         : 

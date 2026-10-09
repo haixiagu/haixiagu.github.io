@@ -37,7 +37,23 @@ With a multidisciplinary background spanning psychology and genetics, Haixia has
 
 
 # 🚩 Projects
-- Waiting for updating.
+### Research Projects (Lead Researcher)
+
+1. **GWAS Meta-analysis of Stressful Life Events in Over 500,000 Europeans**
+  - **Status:** Completed; manuscript in preparation; [conference abstract published](https://doi.org/10.1016/j.euroneuro.2026.113262).
+  - Identified 13 genetic loci associated with stressful life events and investigated their genetic correlations and potential causal relationships with neuropsychiatric and cardiometabolic disorders.
+
+2. **Polygenic Risk for Stressful Life Event Exposure in Relation to Cumulative Stressful Life Events and Health: A Longitudinal Study in the NESDA Cohort**
+  - **Status:** Completed; manuscript in preparation.
+  - Investigated associations between polygenic risk for stressful life events and longitudinal trajectories of stress exposure and mental and physical health outcomes.
+
+3. **Unified Definition of Psychological Stress and the Cognitive Integration Model**
+  - **Status:** Completed; manuscript in preparation.
+  - Proposed a unified definition of psychological stress and a Cognitive Integration Model that specifies the stress-generation and stress-handling processes.
+
+4. **Preliminary Development and Validation of the Multidimensional Integrated Stress Scale (MISS) in Chinese Adults**
+  - **Status:** Completed; manuscript in preparation.
+  - Developed the Chinese version of the Multidimensional Integrated Stress Scale (MISS) based on the Cognitive Integration Model and conducted preliminary assessments of its reliability and validity.
 
 
 
